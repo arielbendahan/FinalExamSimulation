@@ -8,25 +8,25 @@ Each question is worth 0.5 points. Total: **10 points**
 1. What is Docker?  
    - A) A relational database  
    - B) A web server  
-   - C) A container platform for creating and managing environments  
+   - **<mark>C) A container platform for creating and managing environments</mark>**
    - D) A frontend framework  
 
 2. Which command builds a Docker image from a Dockerfile?  
    - A) `docker pull`  
-   - B) `docker build`  
-   - C) `docker start`  
-   - D) `docker run`  
+   - **<mark>B) `docker build`</mark>**    
+   - C) `docker start`
+   - D) `docker run`
 
 3. What is `docker-compose` used for?  
    - A) Compressing files  
    - B) Creating multiple Docker images  
-   - C) Orchestrating multiple containers  
+   - **<mark>C) Orchestrating multiple containers</mark>**  
    - D) Backing up volumes  
 
 4. What does the command `docker ps` do?  
    - A) Create containers  
    - B) List images  
-   - C) Show running containers  
+   - **<mark>C) Show running containers</mark>**  
    - D) Stop all containers  
 
 ---
